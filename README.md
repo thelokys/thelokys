@@ -1,17 +1,4 @@
-### Hi there 👋
-
-<!--
-**thelokys/thelokys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+### Olá eu sou o José. Entusiasta da tecnologia e simpatizante ao Home Office.👋
 
 Here are some ideas to get you started:
 
@@ -33,7 +20,11 @@ Here are some ideas to get you started:
 
 
 
-Você pode me achar no [![linkedin icon][linkedinIcon]][linkedinUrl]
+Você pode me achar no 
+- [![linkedin icon][linkedinIcon]][linkedinUrl] ou 
+- :email: ricardo.guidetti@gmail.com
+
+
 
 <!--Links Url -->
 [linkedinUrl]: https://www.linkedin.com/in/josericardogjr/
