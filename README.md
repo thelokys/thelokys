@@ -25,4 +25,7 @@ You can found me on:
 ## Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=BasicAuth)](https://github.com/thelokys/BasicAuth)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazy-Code-Machine&repo=tests-with-mongodb)](https://github.com/Crazy-Code-Machine/tests-with-mongodb)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=tests-with-mongodb)](https://github.com/thelokys/tests-with-mongodb)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=gobarber)](https://github.com/thelokys/gobarber)
