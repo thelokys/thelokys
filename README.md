@@ -1,4 +1,4 @@
-### Olá eu sou o José. Entusiasta da tecnologia e simpatizante ao Home Office.👋
+### Hi, My name is José. Technology enthusiast and Home Office's sympathizer..👋
 
 I working currently with javascript stacks (frontend/backend), and getting more and more moving towards specialization it. I work with other stacks like C # MVC / Core and Java with Spring Boot without problems too.
 
