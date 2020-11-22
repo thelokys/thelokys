@@ -14,11 +14,12 @@ You can found me on:
 ### Languages and Tools:
 
 [<code><img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /></code>](https://code.visualstudio.com/)
-[<code><img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png"></code>](https://nodejs.org/en/)
-[<code><img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png"></code>](https://www.typescriptlang.org/)
-[<code><img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png"></code>](https://www.kernel.org/)
+[<code><img alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>](https://nodejs.org/en/)
+[<code><img alt="typescript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"></code>](https://www.typescriptlang.org/)
+[<code><img alt="linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png"></code>](https://www.kernel.org/)
 [<code><img alt="Csharp plus plus" width="26px" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"></code>](https://dotnet.microsoft.com/)
-[<code><img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"></code>](https://docs.oracle.com/en/java/)
+[<code><img alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>](https://docs.oracle.com/en/java/)
+[<code><img alt="Spring Boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo"></code>](https://spring.io/projects/spring-boot/)
 
 
 ## Projects
