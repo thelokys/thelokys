@@ -2,7 +2,7 @@
 
 I working currently with javascript stacks (frontend/backend), and getting more and more moving towards specialization it. I work with other stacks like C # MVC / Core and Java with Spring Boot without problems too.
 
-Você pode me achar no 
+You can found me on:
 - [![linkedin icon][linkedinIcon] LinkedIn][linkedinUrl] 
 - :email: <a href="mailto:ricardo.guidetti@gmail.com">ricardo.guidetti@gmail.com</a>
 
