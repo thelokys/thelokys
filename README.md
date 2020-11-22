@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 Você pode me achar no 
-- [![linkedin icon][linkedinIcon]][linkedinUrl] ou 
-- :email: ricardo.guidetti@gmail.com
+- [![linkedin icon][linkedinIcon] LinkedIn][linkedinUrl] 
+- :email: <a href="mailto:ricardo.guidetti@gmail.com">Gmail</a>
 
 
 
