@@ -18,12 +18,9 @@ You can found me on:
 [<code><img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png"></code>](https://www.typescriptlang.org/)
 [<code><img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png"></code>](https://www.kernel.org/)
 
-*NOTE: Top languages does not indicate my skill level or something like that*
-*it's a github metric of which languages i have the most code on github*
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelokys)](https://github.com/thelokys/github-readme-stats)
-
+*NOTE: Top languages does not indicate my skill level or something like that*</br>
+*it's a github metric of which languages i have the most code on github*
 
 ## Ongoing projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=BasicAuth)](https://github.com/thelokys/BasicAuth)
