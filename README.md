@@ -11,7 +11,7 @@ You can found me on:
 <!-- icons links -->
 [linkedinIcon]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
-### Languages and Tools:
+### :hammer: Languages and Tools:
 
 [<code><img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /></code>](https://code.visualstudio.com/)
 [<code><img alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>](https://nodejs.org/en/)
@@ -22,10 +22,12 @@ You can found me on:
 [<code><img alt="Spring Boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo"></code>](https://spring.io/projects/spring-boot/)
 
 
-## Projects
-
+## :notebook: Projects
 
 [![ReadMe BasicAuth](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=BasicAuth)](https://github.com/thelokys/BasicAuth)
 [![ReadMe Mongodb](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=tests-with-mongodb)](https://github.com/thelokys/tests-with-mongodb)
 [![ReadMe Gobarber](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=gobarber)](https://github.com/thelokys/gobarber)
 
+## :book: Postagens notions
+
+[<code><img alt="Notion" width="26px" src="https://img.icons8.com/nolan/64/notion.png"></code>Expo + Linux](https://www.notion.so/Expo-Linux-c8a0dac7be4d4ff7be529e687f6d718f) 
