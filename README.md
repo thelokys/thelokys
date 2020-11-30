@@ -22,7 +22,7 @@ You can found me on:
 [<code><img alt="Spring Boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo"></code>](https://spring.io/projects/spring-boot/)
 
 
-## :notebook: Projects
+## :bulb: Projects
 
 [![ReadMe BasicAuth](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=BasicAuth)](https://github.com/thelokys/BasicAuth)
 [![ReadMe Mongodb](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=tests-with-mongodb)](https://github.com/thelokys/tests-with-mongodb)
