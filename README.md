@@ -28,7 +28,7 @@ You can found me on:
 [![ReadMe Mongodb](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=tests-with-mongodb)](https://github.com/thelokys/tests-with-mongodb)
 [![ReadMe Gobarber](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=gobarber)](https://github.com/thelokys/gobarber)
 [![ReadMe Ignews](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=ignews)](https://github.com/thelokys/ignews)
-[![ReadMe NewsBlog](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=news-blog)](https://github.com/thelokys/news-blog)
+[![ReadMe NewsBlog](https://github-readme-stats.vercel.app/api/pin/?username=thelokys&repo=open-anime)](https://github.com/thelokys/open-anime)
 
 ## :book: Postagens notions
 
